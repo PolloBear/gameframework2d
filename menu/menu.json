@@ -1,0 +1,21 @@
+{
+    "menu": {
+        "background": "images/backgrounds/CloudBlk.png",
+        "buttons": [
+            {
+                "name": "start",
+                "x": 500,
+                "y": 300,
+                "w": 200,
+                "h": 50
+            },
+            {
+                "name": "quit",
+                "x": 500,
+                "y": 400,
+                "w": 200,
+                "h": 50
+            }
+        ]
+    }
+}
